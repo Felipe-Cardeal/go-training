@@ -7,8 +7,15 @@ func main() {
 	x := 5
 	y := 8
 
-	OpEquals(x, y)
+	OpEquals(2,2)
 	OpNotEquals(x, y)
+	OpGreater (10, 5 )
+	OpLessOrEqual(40, 40)
+	OpGreaterOrEqual(20, 10)
+
+
+
+
 	// adicione um exemplo de chamada de cada metodo
 
 }
